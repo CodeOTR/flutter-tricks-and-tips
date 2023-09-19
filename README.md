@@ -1,3 +1,5 @@
+![](tips_and_tricks.png)
+
 # Flutter Tricks and Tips
 Below is a constantly expanding list of Flutter and Dart tricks. The most recent tips are at the top and new ones are added daily.
 
