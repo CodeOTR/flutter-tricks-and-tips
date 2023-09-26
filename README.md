@@ -5,6 +5,12 @@ Below is a constantly expanding list of Flutter and Dart tricks. The most recent
 
 To see tips as soon as they are added, follow [@CodeOnTheRocks_](https://twitter.com/CodeOnTheRocks) on Twitter!
 
+## More by Code on the Rocks
+| [Flutter AI Chat](https://codeontherocks.gumroad.com/l/flutter-ai-chat)                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://codeontherocks.gumroad.com/l/flutter-ai-chat"><img src="https://public-files.gumroad.com/cn4mfepgnvhnw4af8icucgmda7iq" height="500"></a> |
+| Flutter AI Chat Starter App (with Firebase and PaLM)                                                                                            |
+
 | # | Tip | Tweet |
 | -- | --- | --- |
 | 0055 | [Create a ColorScheme from your Logo](tips/0055-logo-colorscheme/tip.md) | [Tweet](https://twitter.com/CodeOnTheRocks_/status/1703745685831757834)  |
